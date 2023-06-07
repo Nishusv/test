@@ -1,0 +1,77 @@
+{
+    "Students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 18,
+        "grade": "12th"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 17,
+        "grade": "11th"
+      },
+      {
+        "id": 3,
+        "name": "Alex Johnson",
+        "age": 16,
+        "grade": "10th"
+      },
+      {
+        "id": 4,
+        "name": "vicky",
+        "age": 18,
+        "grade": "12th"
+      },
+      {
+        "id": 5,
+        "name": "Jane ss",
+        "age": 17,
+        "grade": "11th"
+      },
+      {
+        "id": 6,
+        "name": "Alex pou",
+        "age": 16,
+        "grade": "10th"
+      } ,
+      {
+        "id": 7,
+        "name": " Doe",
+        "age": 18,
+        "grade": "12th"
+      },
+      {
+        "id": 8,
+        "name": "Smith",
+        "age": 17,
+        "grade": "11th"
+      },
+      {
+        "id": 9,
+        "name": "Johnson",
+        "age": 16,
+        "grade": "10th"
+      } ,
+      {
+        "id": 10,
+        "name": "John sam",
+        "age": 18,
+        "grade": "12th"
+      },
+      {
+        "id": 11,
+        "name": "harsh Smith",
+        "age": 17,
+        "grade": "11th"
+      },
+      {
+        "id": 12,
+        "name": "Alex son",
+        "age": 16,
+        "grade": "10th"
+      }
+    ]
+  }
+  

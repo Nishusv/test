@@ -1,0 +1,30 @@
+{
+  "Teachers": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Jane"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "age": 18,
+      "grade": "12th"
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "age": 17,
+      "grade": "11th"
+    },
+    {
+      "id": 5,
+      "name": "Alex Johnson",
+      "age": 16,
+      "grade": "10th"
+    }
+  ]
+}
